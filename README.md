@@ -14,5 +14,5 @@
 
 **- Kiểm soát sức chứa:**  đăng ký trùng, quyền sở hữu sự kiện, đăng ký.
 
-**- Hiện thị lý do từ chối:** thôgn báo lý do từ chối thao tác 1 cách rõ ràng.
+**- Hiện thị lý do từ chối:** thông báo lý do từ chối thao tác 1 cách rõ ràng.
 
